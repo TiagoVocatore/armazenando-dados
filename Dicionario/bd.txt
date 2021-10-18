@@ -1,0 +1,4 @@
+anap01,Ana Paula,Eletricista,2200.0
+ritap01,Rita Pereira,secretaria,1200.0
+joaos01,Joao Silva,Diretor,7500.0
+felipet01,Felipe Torres Nascimento,Programador,4500.0
